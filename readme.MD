@@ -1,4 +1,4 @@
-project:student-management-system
+project:student-search-system
 technologies used are:
 html
 css
